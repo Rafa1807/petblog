@@ -11,19 +11,12 @@
 ### First Page Login
 
 
-<br>
-<img src="./public/login.png" alt="Login">
-<br>
+### PETBLOG PAGE WITH FILTER AND SUBFILTER
 
-### Second Page Personal Information
-
-<img src="./public/personal.png" alt="Personal">
+<img src="./public/petblog.png" alt="Petblog">
 <br>
 
-### Last Page Delivery Information
-
-<img src="./public/delivery.png" alt="Delivery">
-     
+    
      
 # Technologies 
 
